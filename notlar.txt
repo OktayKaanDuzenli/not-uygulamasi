@@ -1,0 +1,6 @@
+Linux Komutları Notlarım
+1. ls    - Bulunulan klasördeki dosya ve klasörleri listeler
+2. cd    - Klasör değiştirir
+3. pwd   - Bulunulan klasörün tam yolunu gösterir
+4. mkdir - Yeni klasör oluşturur
+5. cat   - Dosya içeriğini ekrana yazdırır
