@@ -4,3 +4,10 @@ Linux Komutları Notlarım
 3. pwd   - Bulunulan klasörün tam yolunu gösterir
 4. mkdir - Yeni klasör oluşturur
 5. cat   - Dosya içeriğini ekrana yazdırır
+
+Hafta 2 - Git Komutları
+1. git init   - Klasörü Git reposuna dönüştürür
+2. git add    - Değişiklikleri staging area'ya alır
+3. git commit - Staging'deki değişiklikleri kaydeder
+4. git status - Dosyaların durumunu gösterir
+5. git log    - Commit geçmişini listeler
