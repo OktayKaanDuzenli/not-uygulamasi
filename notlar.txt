@@ -11,3 +11,5 @@ Hafta 2 - Git Komutları
 3. git commit - Staging'deki değişiklikleri kaydeder
 4. git status - Dosyaların durumunu gösterir
 5. git log    - Commit geçmişini listeler
+6. git push   - Yerel commit'leri GitHub'a gönderir
+7. git branch - Branch'leri listeler
